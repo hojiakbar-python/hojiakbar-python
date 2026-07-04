@@ -41,15 +41,6 @@ class HojiakbarHabibullayev:
 
 <sub>`▲` open source · `●` client work (closed source, [write-ups on the blog](https://hojiakbar.blog/projects)) · `◆` self-hosted tool</sub>
 
-## ~/stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hojiakbar-python&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hojiakbar-python&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top languages" height="165"/>
-
-</div>
-
 ## ~/now
 
 ```diff
